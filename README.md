@@ -1,4 +1,4 @@
-# :yello_heart:Parkinhwa:yello_heart:
+# :yellow_heart:Parkinhwa:yellow_heart:
 ### Introduction
 - 🌱 I am preparing for a front-end developer.
 - ⚡ My major is computer science
